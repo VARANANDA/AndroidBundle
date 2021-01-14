@@ -1,0 +1,2 @@
+rootProject.name='AndroidBundle'
+include ':app'
