@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidBundle</string>
+    <string name="implicitIntent">Implicit-Intent</string>
+    <string name="explicitIntent">Explicit-Intent</string>
 </resources>
